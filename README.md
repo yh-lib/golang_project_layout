@@ -1,2 +1,1 @@
-# golang_project_layout
-Customized Go Project Layout
+## 用来描述项目的一些信息
